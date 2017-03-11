@@ -1,0 +1,1 @@
+json.partial! "board_workflows/board_workflow", board_workflow: @board_workflow
